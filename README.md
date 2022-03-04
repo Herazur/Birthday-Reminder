@@ -1,6 +1,6 @@
 # react-birthday-reminder
 birthday-reminder
 
-cd 01-birthday-reminder/setup
+cd react-birthday-reminder/setup
 
 npm start
