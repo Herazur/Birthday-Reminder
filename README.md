@@ -3,4 +3,4 @@ birthday-reminder
 
 cd react-birthday-reminder/setup
 
-npm start
+npm install && npm start
